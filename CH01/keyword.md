@@ -1,0 +1,34 @@
+# 1-11 關鍵字
+- 程式語言 programming language
+- 原始程式碼 source code
+- 編譯器 compiler
+- 編譯 compile
+- 目的碼 object code
+- 機器語言 machine language
+- 執行 run
+- 庫存函數 library function
+- 連結器 linker
+- 可執行程式碼 executable code
+- 除錯 debug
+- 錯誤 bugs
+- 變數 variables
+- 保留字 reserved word
+- 資料型態 data type
+- 整數 integer
+- 浮點數 floating point
+- 字元 character
+- 無符號 unsigned
+- 常數 constant
+- 整數常數 integer constant
+- 浮點數常數 floating point constant
+- 字元常數 charater constant
+- 定義 definition
+- 前端處理程式 preprocessor
+- 前端處理指令 directive
+- 標頭檔 header file
+- 語法 syntax
+- 原型 prototype
+- 符號常數 symbol constant
+- 巨集指令 macro
+- 註解敘述 comment statement
+
