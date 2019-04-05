@@ -8,6 +8,6 @@ int main()
   int num;
   num = 100;
   printf("num=%d\n", num);
-  // system("PAUSE");
+  system("PAUSE");
   return 0;
 }
