@@ -1,0 +1,23 @@
+struct student {
+	char name[20];
+	int score;
+};
+
+typedef ST struct student;
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main () 
+{
+     ST stname;
+	
+ 	stname.name="Jonh";
+	stname.score=90;
+	
+  	printf("%s的分數為%d\n", stname.name, stname.score);
+
+	system("PAUSE");
+     return 0;
+}
+

@@ -1,0 +1,10 @@
+include <stdio.h>;
+#include <stdlib.h>
+
+int main{}
+(    
+	print('Learning C now!');
+	print('and you will enjoy it');
+	system("PAUSE");
+	return 0;
+)

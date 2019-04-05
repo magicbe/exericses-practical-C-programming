@@ -1,0 +1,28 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main () 
+{
+   struct  student {
+		char name[10];
+		int score;
+	}
+	
+	struct student st1;
+	printf("請輸入姓名:");
+	scanf("%s", name);
+    
+	printf("請輸入分數:");
+	scanf("%d", score);
+	
+	printf("%s的成績是%d\n", name, score);
+	
+	if (score > 60)
+      printf("恭喜您通過了");
+	else {
+      printf("抱歉您被當了");
+	}
+
+	system("PAUSE");
+   return 0;
+}

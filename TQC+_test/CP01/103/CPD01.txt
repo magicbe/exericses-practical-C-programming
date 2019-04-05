@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+void main () 
+{
+	Integer i=100, j=200;
+	Double d=123.456;
+	printf("%d+%d=%d\n", i, j, i+j)
+	printf("d=%10.2f\n", d);
+	system("PAUSE");
+	return 0;
+}
+
